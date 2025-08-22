@@ -1,4 +1,7 @@
 # app.py
+git add requirements.txt
+git commit -m "Fix Python 3.13 compatibility"
+git push
 import streamlit as st
 import pandas as pd
 import numpy as np
